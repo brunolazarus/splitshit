@@ -1,0 +1,14 @@
+{
+  "name": "splitshit",
+  "version": "1.0.0",
+  "description": "Split expenses with groups of users. Track who owes you, how much, and vice-versa.",  
+  "repository": "splitshit/splitshit",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0"
+  }
+}
